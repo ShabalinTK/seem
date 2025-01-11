@@ -1,0 +1,116 @@
+<html lang="ru">
+<head>
+	<meta charset="utf-8"/>
+	<title>Все части фильмов смотреть онлайн бесплатно по порядку в HD 1080 качестве</title>
+	<meta content="Сборник из всех частей фильмов франшиз бесплатно и в хорошем качестве. Здесь вы можете смотреть онлайн все части кино по порядку и без остановки, Лучшие фильмы собраны для вас, где есть возможность смотреть их онлайн и бесплатно." name="description"/>
+	<meta content="" name="keywords"/>
+	<meta content="DataLife Engine (http://dle-news.ru)" name="generator"/>
+	<link href="https://hd3.2-vse-chasti-filmov.xyz/index.php?do=opensearch" rel="search" title="Все части фильмов смотреть онлайн бесплатно по порядку в HD 1080 качестве" type="application/opensearchdescription+xml"/>
+	<link href="https://hd3.2-vse-chasti-filmov.xyz/" rel="canonical"/>
+	<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+	<link href="./web/templates/KinoGarage-dark/webfonts/manrope-400.woff2" rel="stylesheet" type="font/woff2"/>
+	<link href="./web/templates/KinoGarage-dark/webfonts/manrope-700.woff2" rel="stylesheet" type="font/woff2"/>
+	<link href="./web/templates/KinoGarage-dark/webfonts/roboto-condensed-700.woff2" rel="stylesheet" type="font/woff2"/>
+	<link href="./web/templates/KinoGarage-dark/webfonts/fa-light-300.woff2" rel="stylesheet" type="font/woff2"/>
+	<link href="./web/templates/KinoGarage-dark/images/logo.svg" rel="shortcut icon"/>
+	<link href="./web/templates/KinoGarage-dark/css/common.css?=1" rel="stylesheet" type="text/css"/>
+	<link href="./web/templates/KinoGarage-dark/css/styles.css?=7" rel="stylesheet" type="text/css"/>
+	<link href="./web/templates/KinoGarage-dark/css/engine.css" rel="stylesheet" type="text/css"/>
+	<link href="./web/templates/KinoGarage-dark/css/fontawesome.css" rel="stylesheet" type="text/css"/>
+</head>
+<body class="pmovie2">
+	<div class="wrapper">
+		<div class="wrapper-container wrapper-main d-flex fd-column">
+			<header class="header d-flex ai-center">
+				<a class="logo header__logo" href="/movies">
+					<div class="logo__title">Все части</div>
+					<p class="logo__caption">Смотреть онлайн</p>
+				</a>
+				<ul class="header__menu d-flex js-this-in-mobile-menu">
+					<li><a>Жанр</a></li>
+					<li><a>Фильмы</a></li>
+					<li><a>Мультфильмы</a></li>
+				</ul>
+				<div class="header__search flex-grow-1">
+					<form id="quicksearch" method="post">
+						<input name="do" type="hidden" value="search" />
+						<input name="subaction" type="hidden" value="search" />
+						<div class="header__search-box">
+							<input autocomplete="off" id="story" name="story" placeholder="Поиск по сайту..." type="text" />
+							<button class="search-btn" type="submit"><span class="fal fa-search"></span></button>
+						</div>
+					</form>
+				</div>
+				<div class="header__btn js-show-login"><span class="fal fa-user"></span>{{login_name}}</div>
+				<div class="header__btn-menu d-none js-show-mobile-menu"><span class="fal fa-bars"></span></div>
+			</header>
+			<!-- END HEADER -->
+			<main class="col-main flex-grow-1 d-flex fd-column">
+				<section class="sect flex-grow-1">
+					<div class="sect__header d-flex ai-center"><h2 class="sect__title flex-grow-1">Все части фильмов онлайн</h2></div>
+					<div class="sect__content">
+						<div id="dle-content">
+
+						</div>
+					</div>
+				</section>
+			</main>
+			<!-- END COL MAIN -->
+			<footer class="footer">
+				<div class="footer__two d-flex ai-center"><div class="footer__text flex-grow-1">В случаях нарушения авторских прав - обращайтесь на почту abusegaren@yandex.ru</div></div>
+			</footer>
+			<!-- END FOOTER -->
+		</div>
+		<!-- END WRAPPER-MAIN -->
+	</div>
+	<!-- END WRAPPER -->
+	<div id="loginModal" class="login login--not-logged d-none">
+		<div class="login__header d-flex jc-space-between ai-center">
+			<div class="login__title stretch-free-width ws-nowrap">Войти <a href="/register">Регистрация</a></div>
+			<div class="login__close" id="closeLoginModal"><span class="fal fa-times"></span></div>
+		</div>
+		<form method="post">
+			<div class="login__content">
+				<div class="login__row">
+					<div class="login__caption">Логин:</div>
+					<div class="login__input"><input id="login_name" name="login_name" placeholder="Ваш логин" type="text" /></div>
+					<span class="fal fa-user"></span>
+				</div>
+				<div class="login__row">
+					<div class="login__caption">Пароль:</div>
+					<div class="login__input"><input id="login_password" name="login_password" placeholder="Ваш пароль" type="password" /></div>
+					<span class="fal fa-lock"></span>
+				</div>
+				<div class="login__row">
+					<button onclick="submit();" title="Вход" type="submit">Войти на сайт</button>
+					<input id="login" name="login" type="hidden" value="submit" />
+				</div>
+			</div>
+		</form>
+	</div>
+
+	<script>
+		// Получение элементов
+		const loginModal = document.getElementById("loginModal");
+		const openLoginBtn = document.querySelector(".js-show-login"); // Ваша кнопка "Войти"
+		const closeLoginBtn = document.getElementById("closeLoginModal");
+
+		// Открытие модального окна
+		openLoginBtn.addEventListener("click", () => {
+			loginModal.classList.remove("d-none"); // Убираем класс скрытия
+		});
+
+		// Закрытие модального окна
+		closeLoginBtn.addEventListener("click", () => {
+			loginModal.classList.add("d-none"); // Добавляем класс скрытия
+		});
+
+		// Закрытие окна при клике вне содержимого
+		window.addEventListener("click", (event) => {
+			if (event.target === loginModal) {
+				loginModal.classList.add("d-none");
+			}
+		});
+	</script>
+</body>
+</html>

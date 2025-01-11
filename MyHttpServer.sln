@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyHttpServer", "MyHttpServer\MyHttpServer.csproj", "{544E62C9-0978-4475-B2CA-073392E21881}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpServerLibrary", "HttpServerLibrary\HttpServerLibrary.csproj", "{256CD119-9A7C-4E7F-B6C8-2D0E913CA400}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateEngine", "TemplateEngine\TemplateEngine.csproj", "{B64FBA8F-AD96-4450-92A2-79041E1C6147}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateEngine.UnitTests", "TemplateEngine.UnitTests\TemplateEngine.UnitTests.csproj", "{B9808E85-5500-41A9-BFB0-4CB4399E2BB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyORMLibrary", "MyORMLibery\MyORMLibrary.csproj", "{13A57F48-5919-42EB-9B68-205E1A2F1A2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ORMLibrary.Tests", "ORMLibrary.Tests\ORMLibrary.Tests.csproj", "{74F1E249-D41C-4D48-B6AE-69D3166B3A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{3362C9DC-8CCB-44D1-901D-227B0459D40A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{544E62C9-0978-4475-B2CA-073392E21881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544E62C9-0978-4475-B2CA-073392E21881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544E62C9-0978-4475-B2CA-073392E21881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544E62C9-0978-4475-B2CA-073392E21881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{256CD119-9A7C-4E7F-B6C8-2D0E913CA400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256CD119-9A7C-4E7F-B6C8-2D0E913CA400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256CD119-9A7C-4E7F-B6C8-2D0E913CA400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256CD119-9A7C-4E7F-B6C8-2D0E913CA400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64FBA8F-AD96-4450-92A2-79041E1C6147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64FBA8F-AD96-4450-92A2-79041E1C6147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64FBA8F-AD96-4450-92A2-79041E1C6147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64FBA8F-AD96-4450-92A2-79041E1C6147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9808E85-5500-41A9-BFB0-4CB4399E2BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9808E85-5500-41A9-BFB0-4CB4399E2BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9808E85-5500-41A9-BFB0-4CB4399E2BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9808E85-5500-41A9-BFB0-4CB4399E2BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A57F48-5919-42EB-9B68-205E1A2F1A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A57F48-5919-42EB-9B68-205E1A2F1A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A57F48-5919-42EB-9B68-205E1A2F1A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A57F48-5919-42EB-9B68-205E1A2F1A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F1E249-D41C-4D48-B6AE-69D3166B3A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F1E249-D41C-4D48-B6AE-69D3166B3A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F1E249-D41C-4D48-B6AE-69D3166B3A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F1E249-D41C-4D48-B6AE-69D3166B3A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3362C9DC-8CCB-44D1-901D-227B0459D40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3362C9DC-8CCB-44D1-901D-227B0459D40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3362C9DC-8CCB-44D1-901D-227B0459D40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3362C9DC-8CCB-44D1-901D-227B0459D40A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {269202F4-8FAD-4E1E-BAC3-6824609330A8}
+	EndGlobalSection
+EndGlobal

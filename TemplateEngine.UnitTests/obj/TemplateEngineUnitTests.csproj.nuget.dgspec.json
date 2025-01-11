@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\shaba\\OneDrive\\Рабочий стол\\MyHttpServer\\TemplateEngine.UnitTests\\TemplateEngineUnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\shaba\\OneDrive\\Рабочий стол\\MyHttpServer\\TemplateEngine.UnitTests\\TemplateEngineUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shaba\\OneDrive\\Рабочий стол\\MyHttpServer\\TemplateEngine.UnitTests\\TemplateEngineUnitTests.csproj",
+        "projectName": "TemplateEngineUnitTests",
+        "projectPath": "C:\\Users\\shaba\\OneDrive\\Рабочий стол\\MyHttpServer\\TemplateEngine.UnitTests\\TemplateEngineUnitTests.csproj",
+        "packagesPath": "C:\\Users\\shaba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shaba\\OneDrive\\Рабочий стол\\MyHttpServer\\TemplateEngine.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shaba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\shaba\\OneDrive\\Рабочий стол\\MyHttpServer\\TemplateEngine\\TemplateEngine.csproj": {
+                "projectPath": "C:\\Users\\shaba\\OneDrive\\Рабочий стол\\MyHttpServer\\TemplateEngine\\TemplateEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\shaba\\OneDrive\\Рабочий стол\\MyHttpServer\\TemplateEngine\\TemplateEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shaba\\OneDrive\\Рабочий стол\\MyHttpServer\\TemplateEngine\\TemplateEngine.csproj",
+        "projectName": "TemplateEngine",
+        "projectPath": "C:\\Users\\shaba\\OneDrive\\Рабочий стол\\MyHttpServer\\TemplateEngine\\TemplateEngine.csproj",
+        "packagesPath": "C:\\Users\\shaba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shaba\\OneDrive\\Рабочий стол\\MyHttpServer\\TemplateEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shaba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

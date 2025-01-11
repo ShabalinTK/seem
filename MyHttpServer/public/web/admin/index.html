@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Панель</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        .movie-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+
+            .movie-item button {
+                background-color: #ff4e4e;
+                border: none;
+                color: white;
+                padding: 5px 10px;
+                cursor: pointer;
+            }
+
+                .movie-item button:hover {
+                    background-color: #ff2a2a;
+                }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Admin Панель</h1>
+
+        <!-- Форма для добавления нового фильма -->
+        <form action="/admin/add-movie" method="POST">
+            <div class="form-group">
+                <label for="title">Название фильма</label>
+                <input type="text" id="title" name="title" required>
+            </div>
+            <div class="form-group">
+                <label for="titleEnglish">Название фильма на английском</label>
+                <input type="text" id="titleEnglish" name="titleEng" required>
+            </div>
+            <div class="form-group">
+                <label for="releaseYear">Год выпуска</label>
+                <input type="text" id="releaseYear" name="releaseYear" required>
+            </div>
+            <div class="form-group">
+                <label for="country">Страна</label>
+                <input type="text" id="country" name="country" required>
+            </div>
+            <div class="form-group">
+                <label for="genre">Жанр</label>
+                <input type="text" id="genre" name="genre" required>
+            </div>
+            <div class="form-group">
+                <label for="imagePath">Ссылка на изображение постера</label>
+                <input type="text" id="imagePath" name="imagePath" required>
+            </div>
+            <div class="form-group">
+                <label for="directorName">Режиссер</label>
+                <input type="text" id="directorName" name="directorName" required>
+            </div>
+            <div class="form-group">
+                <label for="actors">Актеры (через запятую)</label>
+                <input type="text" id="actors" name="actors" required>
+            </div>
+            <div class="form-group">
+                <label for="filmLink">Ссылка на фильм</label>
+                <input type="text" id="filmLink" name="filmLink" required>
+            </div>
+            <div class="form-group">
+                <label for="description">Описание</label>
+                <textarea id="description" name="description" rows="4" required></textarea>
+            </div>
+            <button type="submit">Добавить фильм</button>
+        </form>
+
+        <div class="movie-list">
+            <h2>Список фильмов</h2>
+
+            <!-- Пример вывода списка фильмов -->
+            {{moviesHtml}} <!-- Заменяйте по вашему коду и контенту -->
+            <!-- Форма редактирования фильма -->
+            <div id="editFormContainer">
+                <h2>Редактировать фильм</h2>
+                <form id="editMovieForm" method="POST" action="/admin/update">
+                    <div class="form-group">
+                        <label for="editMovieIdDisplay">ID фильма</label>
+                        <input type="text" id="editMovieIdDisplay" name="id" value="">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="editTitle">Название фильма</label>
+                        <input type="text" id="editTitle" name="title" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="editTitleEnglish">Название фильма на английском</label>
+                        <input type="text" id="editTitleEnglish" name="titleEng" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="editReleaseYear">Год выпуска</label>
+                        <input type="text" id="editReleaseYear" name="releaseYear" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="editCountry">Страна</label>
+                        <input type="text" id="editCountry" name="country" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="editGenre">Жанр</label>
+                        <input type="text" id="editGenre" name="genre" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="editImagePath">Ссылка на изображение постера</label>
+                        <input type="text" id="editImagePath" name="imagePath" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="editActors">Актеры (через запятую)</label>
+                        <input type="text" id="editActors" name="actors" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="editFilmLink">Ссылка на фильм</label>
+                        <input type="text" id="editFilmLink" name="player" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="editDescription">Описание</label>
+                        <textarea id="editDescription" name="description" rows="4" required></textarea>
+                    </div>
+                    <button type="submit">Обновить фильм</button>
+                    <button type="button" onclick="closeEditForm()">Отмена</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html >

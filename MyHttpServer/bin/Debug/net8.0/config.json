@@ -1,0 +1,9 @@
+{
+  "Domain": "localhost",
+  "Port": 8888,
+  "StaticDirectoryPath": "public/",
+  "SmtpServer": "smtp.mail.ru",
+  "SmtpPort": 587,
+  "SmtpUser": "tkshabalin@mail.ru",
+  "SmtpPassword": "Y1za2mYkjfC7zD0amiST"
+}

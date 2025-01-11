@@ -1,0 +1,62 @@
+D:\Projects\KFU\11-308\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.deps.json
+D:\Projects\KFU\11-308\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.dll
+D:\Projects\KFU\11-308\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.pdb
+D:\Projects\KFU\11-308\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KFU\11-308\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfoInputs.cache
+D:\Projects\KFU\11-308\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfo.cs
+D:\Projects\KFU\11-308\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\KFU\11-308\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.dll
+D:\Projects\KFU\11-308\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\refint\HttpServerLibrary.dll
+D:\Projects\KFU\11-308\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.pdb
+D:\Projects\KFU\11-308\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\ref\HttpServerLibrary.dll
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfo.cs
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\refint\HttpServerLibrary.dll
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024 (2)\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024 (2)\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024 (2)\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfo.cs
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024 (2)\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024 (2)\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024 (2)\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\refint\HttpServerLibrary.dll
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024 (2)\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024 (2)\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.deps.json
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024 (2)\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024 (2)\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\andre\Desktop\MyHttpServer_23_11_2024 (2)\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\ref\HttpServerLibrary.dll
+C:\Users\shaba\OneDrive\Рабочий стол\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.deps.json
+C:\Users\shaba\OneDrive\Рабочий стол\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\shaba\OneDrive\Рабочий стол\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\shaba\OneDrive\Рабочий стол\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaba\OneDrive\Рабочий стол\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfoInputs.cache
+C:\Users\shaba\OneDrive\Рабочий стол\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfo.cs
+C:\Users\shaba\OneDrive\Рабочий стол\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shaba\OneDrive\Рабочий стол\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\shaba\OneDrive\Рабочий стол\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\refint\HttpServerLibrary.dll
+C:\Users\shaba\OneDrive\Рабочий стол\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\shaba\OneDrive\Рабочий стол\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\ref\HttpServerLibrary.dll
+C:\Users\shaba\OneDrive\Рабочий стол\Sem\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.deps.json
+C:\Users\shaba\OneDrive\Рабочий стол\Sem\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\shaba\OneDrive\Рабочий стол\Sem\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\shaba\OneDrive\Рабочий стол\Sem\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaba\OneDrive\Рабочий стол\Sem\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfoInputs.cache
+C:\Users\shaba\OneDrive\Рабочий стол\Sem\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfo.cs
+C:\Users\shaba\OneDrive\Рабочий стол\Sem\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shaba\OneDrive\Рабочий стол\Sem\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\shaba\OneDrive\Рабочий стол\Sem\HttpServerLibrary\obj\Debug\net8.0\refint\HttpServerLibrary.dll
+C:\Users\shaba\OneDrive\Рабочий стол\Sem\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\shaba\OneDrive\Рабочий стол\Sem\HttpServerLibrary\obj\Debug\net8.0\ref\HttpServerLibrary.dll
+C:\Users\shaba\OneDrive\Рабочий стол\sem1\Sem\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.deps.json
+C:\Users\shaba\OneDrive\Рабочий стол\sem1\Sem\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\shaba\OneDrive\Рабочий стол\sem1\Sem\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\shaba\OneDrive\Рабочий стол\sem1\Sem\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaba\OneDrive\Рабочий стол\sem1\Sem\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfoInputs.cache
+C:\Users\shaba\OneDrive\Рабочий стол\sem1\Sem\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfo.cs
+C:\Users\shaba\OneDrive\Рабочий стол\sem1\Sem\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shaba\OneDrive\Рабочий стол\sem1\Sem\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\shaba\OneDrive\Рабочий стол\sem1\Sem\HttpServerLibrary\obj\Debug\net8.0\refint\HttpServerLibrary.dll
+C:\Users\shaba\OneDrive\Рабочий стол\sem1\Sem\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\shaba\OneDrive\Рабочий стол\sem1\Sem\HttpServerLibrary\obj\Debug\net8.0\ref\HttpServerLibrary.dll

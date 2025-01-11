@@ -1,0 +1,4 @@
+C:\Users\shaba\OneDrive\Рабочий стол\Sem\MyModelsLibrary\obj\Debug\net8.0\MyModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaba\OneDrive\Рабочий стол\Sem\MyModelsLibrary\obj\Debug\net8.0\MyModelsLibrary.AssemblyInfoInputs.cache
+C:\Users\shaba\OneDrive\Рабочий стол\Sem\MyModelsLibrary\obj\Debug\net8.0\MyModelsLibrary.AssemblyInfo.cs
+C:\Users\shaba\OneDrive\Рабочий стол\Sem\MyModelsLibrary\obj\Debug\net8.0\MyModelsLibrary.csproj.CoreCompileInputs.cache
