@@ -1,7 +1,7 @@
 <h3 align="center"> README - Инструкция по перемещению на сайте (по URL) </h3>
 <h4>(FIGMA - функционал сайта) </h4>
 
-[FIGMA]([https://www.figma.com/design/27MFM5D4OFnPZgZbwPc4tK/Untitled?node-id=1-1413&t=ab9rq5pXGn4wGg5s-0/](https://www.figma.com/design/CtVRXZiBbU1Q8DOMki60gN/Untitled?node-id=0-1&t=8m42QEe3jkECsqTi-1))
+[FIGMA](https://www.figma.com/design/CtVRXZiBbU1Q8DOMki60gN/Untitled?node-id=0-1&t=8m42QEe3jkECsqTi-1)
 
 HOST: Для запуска проекта необходимо открыть распаковать .zip архив данного репозитория и запустить .sln файл. Перед тем, как запустить проект, убедитесь, что host 8888 свободен на вашем ПК. Если нет, то необходимо поменять Ваш хост в файле MyHttpServer\config.json -> "Port": 8888.
 
